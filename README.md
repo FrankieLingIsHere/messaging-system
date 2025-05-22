@@ -45,8 +45,8 @@ The API follows a structured architecture:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/secure-messaging-system.git
-   cd secure-messaging-system
+   git clone https://github.com/FrankielingIsHere/messaging-system.git
+   cd messaging-system
    ```
 
 2. Install dependencies:
